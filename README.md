@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gold-chris.  I'm a completely normal human person.  I do normal human things.
+- 👋 Hi, I’m @gold-chris.  I'm a completely normal human person.  I do normal human things like other normal human people
 
 <!---
 gold-chris/gold-chris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
